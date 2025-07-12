@@ -25,6 +25,7 @@ This policy will mainly concern team members having the "Owner" role at the http
 From https://github.com/orgs/f-droid/people?query=role%3Aowner :
 
 - @FestplattenSchnitzel (https://gitlab.com/FestplattenSchnitzel)
+- @uniqx (https://gitlab.com/uniqx)
 
 ### List of features currently in use
 - **GitHub Sponsors**: For enabling donations via Stripe (proprietary) to OpenCollective.
